@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ViachP.github.io/rsschool-cv/cv

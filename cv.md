@@ -27,3 +27,22 @@ function getRandomBetween(min, max) {
 }
 console.log(getRandomBetween(10, 42));
 ```
+
+## Work experience
+
+Nothing yet...
+
+## Education
+
+- **University:**
+  - Minsk State Linguistic University, German language teacher.
+  - Universität zu Köln, Philology Study
+- **Courses:**
+  - [IT Academy, Software Testing](https://www.it-academy.by/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
+  - [Udemy / JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
+
+## Languages:
+
+- **English:** Pre-Intermediate
+- **German:** C1

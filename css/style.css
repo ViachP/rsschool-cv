@@ -21,7 +21,7 @@ body {
   align-items: flex-start;
   justify-content: space-between;
   background: linear-gradient(rgb(59, 57, 58), rgb(75, 69, 75));
-  padding: 5.5rem;
+  padding: 3rem;
 }
 
 section {
@@ -56,7 +56,8 @@ section {
 header {
   height: 60rem;
   width: 35rem;
-  background: rgba(255, 255, 255, 0.2);
+  background-image: url(./images/wood.jpg);
+  background-repeat: round;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(0.4rem);
   text-align: center;
@@ -117,8 +118,10 @@ header .navbar ul li a:hover {
 
 .container {
   height: 60rem;
-  width: 85rem;
-  background: rgba(255, 255, 255, 0.2);
+  width: 90rem;
+  background-image: url(./images/wood.jpg);
+  background-repeat: round;
+  background: opasity();
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(0.4rem);
   border-radius: 1rem;
@@ -255,7 +258,6 @@ header .navbar ul li a:hover {
 
 .education .box-container {
   display: flex;
-  /* align-items: center; */
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 2rem 0;
@@ -373,4 +375,8 @@ header .navbar ul li a:hover {
 .contact .row .content .icons p {
   font-size: 1.5rem;
   color: #eee;
+}
+
+.rs {
+  font-weight: bold;
 }
